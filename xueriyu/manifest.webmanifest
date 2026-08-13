@@ -1,0 +1,13 @@
+{
+  "name": "日语第一步｜30 天零基础入门",
+  "short_name": "日语第一步",
+  "description": "每天 10 分钟，从零开始学习日语。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4efe5",
+  "theme_color": "#172622",
+  "orientation": "portrait-primary",
+  "categories": ["education"]
+}
